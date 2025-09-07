@@ -1,2 +1,2 @@
 
-export const backendUrl = 'http://localhost:4000'
+export const backendUrl = 'https://astrape-assignment-z8b7.onrender.com'
